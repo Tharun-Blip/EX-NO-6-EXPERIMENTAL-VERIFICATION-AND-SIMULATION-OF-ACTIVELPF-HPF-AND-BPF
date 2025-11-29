@@ -214,7 +214,6 @@ PROCEDURE:BAND PASS FILTER
 ## OUT PUT WAVEFORM AND DISCUSSION 
 <img width="638" height="489" alt="image" src="https://github.com/user-attachments/assets/8c0ed6e8-1ede-40a4-ab18-cb88dd58a879" />
 
-
 ---
 ##RESULT:
 <img width="526" height="492" alt="image" src="https://github.com/user-attachments/assets/05c54703-5f59-439d-8e1c-7a15cd139243" />
